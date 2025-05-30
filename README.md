@@ -77,7 +77,10 @@ Preparation: Select or write a 500-word article titled “The Basics of Blockcha
 Platforms Evaluated
 ChatGPT (GPT-4.5) Gemini (Google) Claude (Anthropic) Copilot (Microsoft) Execution Run all four prompting techniques on all four platforms Result for the execution: Screenshot 2025-05-08 080701
 
-Screenshot 2025-05-08 080840
+![Screenshot 2025-05-08 080701](https://github.com/user-attachments/assets/14c28828-2724-41f7-8e1f-30473073c79b)
+
+![Screenshot 2025-05-08 080840](https://github.com/user-attachments/assets/9e4ad073-c239-401f-b70c-cf766378602b)
+
 
 RESULT:
 Thus Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Tex t-Summarization is executed successfully
